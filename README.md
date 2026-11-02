@@ -8,6 +8,8 @@ This project predicts whether a patient has diabetes from basic medical measurem
 (glucose, BMI, blood pressure, insulin, age, number of pregnancies, and more) using a
 **Logistic Regression** classifier (supervised learning, binary classification).
 
+**Key result:** the model reaches 71% accuracy and a ROC-AUC of 0.81 on unseen patients, with glucose level as the strongest predictor.
+
 ## Dataset
 [Pima Indians Diabetes Database (Kaggle)](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database).
 768 patients, 8 features, target `Outcome` (1 = diabetes, 0 = no diabetes).
