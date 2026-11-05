@@ -48,3 +48,4 @@ Or open the notebook in Google Colab and upload `data/diabetes.csv`.
 | `diabetes_prediction.ipynb` | Full analysis notebook |
 | `data/diabetes.csv` | Dataset |
 | `requirements.txt` | Python dependencies |
+| `Diabetes_Prediction_Presentation.pptx` | Project presentation (14 slides with speaker notes) |
